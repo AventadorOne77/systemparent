@@ -8,4 +8,7 @@ public class DoMainTest {
         User user = new User();
         user.showInfo("张三","123456");
     }
+    public void test(){
+        System.out.println("aaaaaaaaaa");
+    }
 }
